@@ -1,2 +1,6 @@
-# bjAlgo
-beakjunAlgo
+# algorithm
+
+- beakjun
+- programmers
+- swexpertacademy
+- jungol
