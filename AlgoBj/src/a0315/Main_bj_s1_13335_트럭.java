@@ -3,7 +3,7 @@ package a0315;
 import java.util.*;
 import java.io.*;
 
-public class Main_bj_s1_13335_Æ®·° {
+public class Main_bj_s1_13335_íŠ¸ëŸ­ {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

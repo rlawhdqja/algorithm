@@ -3,7 +3,7 @@ package a0329;
 import java.util.*;
 import java.io.*;
 
-public class Main_bj_s1_16918_º½¹ö¸Ç {
+public class Main_bj_s1_16918_ë´„ë²„ë§¨ {
 
 	static int R, C, N;
 	static int[][] map;
