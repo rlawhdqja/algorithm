@@ -27,7 +27,7 @@ public class Main_14501_퇴사3 {
 		
 		
 		for (int i = 0; i < N; i++) {
-			schedule(i, n);
+//			schedule(i, n);
 		}
 	}
 
